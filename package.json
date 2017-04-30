@@ -1,5 +1,5 @@
 {
-  "name": "react-lunch-picker",
+  "name": "redux-material-ui-starter",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "material-ui": "^0.17.1",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.3",
-    "react-router-dom": "^4.0.0",
+    "material-ui": "^0.17.4",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "react-router-dom": "^4.1.1",
     "react-tap-event-plugin": "^2.0.1",
     "redux": "^3.6.0"
   },
@@ -23,5 +23,5 @@
     "eject": "react-scripts eject",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://syson16.github.io/react-lunch-picker"
+  "homepage": "https://github.com/syson16/redux-material-ui-starter"
 }
